@@ -1,0 +1,8 @@
+*.bin
+*.out
+*.exe
+*.m12
+*.dat
+*.zx0
+_data/
+.DS_Store
